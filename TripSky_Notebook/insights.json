@@ -1,0 +1,44 @@
+{
+  "n_clients": 798,
+  "n_jours": 800,
+  "periode_debut": "01/01/2023",
+  "periode_fin": "10/03/2025",
+  "revenu_total": 3966171.0,
+  "pub_total": 4011572.0,
+  "marge_brute": -45401.0,
+  "ratio_pub_revenu": 1.0114470606537136,
+  "roi_pub": -0.011317508448059763,
+  "top_destination": "Népal",
+  "top_destination_revenu": 422498.0,
+  "part_top3_destinations": 0.3175483481041994,
+  "top_type": "Culturel",
+  "top_type_revenu": 1148530.0,
+  "panier_moyen_global": 4669.854636591479,
+  "panier_par_type": {
+    "Culturel": 4785.541666666667,
+    "Aventure": 4654.160869565218,
+    "Détente": 4412.477832512315
+  },
+  "top_saison": "Été",
+  "top_saison_revenu": 1326973.0,
+  "pire_saison": "Printemps",
+  "ecart_saison_pct": 53.69830433626005,
+  "note_moyenne": 2.4837092731829573,
+  "pct_notes_basses": 51.62907268170426,
+  "corr_pub_revenu": -0.03583473209297833,
+  "corr_pub_reservations": 0.9260175905616957,
+  "eur_revenu_par_eur_pub_high": 0.6809873401004868,
+  "eur_revenu_par_eur_pub_low": 1.0165526042071622,
+  "economie_annuelle_potentielle": 152708.25,
+  "focus_destinations": [
+    "Népal",
+    "Bali",
+    "France"
+  ],
+  "focus_saisons": [
+    "Été",
+    "Hiver"
+  ],
+  "focus_part_revenu_pct": 21.99367564155958,
+  "uplift_revenu_potentiel": 122940.59999999999
+}
